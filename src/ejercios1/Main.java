@@ -64,7 +64,7 @@ public class Main {
         boolean carnetJoven = edad >= 15 || edad <= 26;
         System.out.println(carnetJoven);
 
-        
+
 
     }
 }
